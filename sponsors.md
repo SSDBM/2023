@@ -5,7 +5,9 @@ layout: default
 
 # Call for Sponsors
 
-We are seeking the sponsorship of companies for the [35th International Conference on Scientific and Statistical Database Management (SSDBM 2023)](https://ssdbm.org/2023/) to be held at the University of Copenhagen, Copenhagen, Denmark.
+We are seeking the sponsorship of companies for the 
+[35th International Conference on Scientific and Statistical Database Management (SSDBM 2023)](https://ssdbm.org/2023/) 
+to be held at the University of Southern California, Information Sciences Institute, Marina del Rey, CA.
 
 We offer the following sponsorship packages:
 
