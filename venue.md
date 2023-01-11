@@ -5,7 +5,22 @@ layout: default
 
 # Conference Venue
 
-TBA
+The conference will be held in the University of Southern California’s Information Sciences Institute (USC/ISI). ISI is an off-campus research institute located in Marina Del Rey, CA. One of the largest computer science research institutes in the country, ISI has played a critical role in creation of computing technology including the development of DNS, serving as RFC editor, and development of Grid Computing technologies. In addition to housing over 100 researchers, the ISI facility is home to a Quantum Computing facility, and operates the Root B server for the Internet Domain Name Service.
+
+The ISI facility is conveniently located with respect to Los Angles International Airport, providing easy access from any international and domestic location.
+
+[//]: # (Insert Figure 1 Map)
+[//]: # (Insert Figure 2 Picture of ISI building)
+
+We have booked the two ISI conference rooms for the main conference. Each room can accommodate 80 people configured in theater style configuration. We will use one room for the main meeting and use the second room for lunch and poster sessions.
+
+ISI is also walking distance from Burton Chase park. We will provide box lunches during the meeting allowing attendees to have the option to eat in a dining area we will have set up in the building, or making a 10 minute walk to the park to eat while overlooking the ocean.
+
+[//]: # (Insert Figure -- Chase park)
+[//]: # (Insert Figure 3 conf room layout)
+
+Lunches, breaks, and the poster and demo sessions will be held in the 11th floor conference room in the building. In addition, there are a number of additional intermediate sized rooms the ISI facility that can be used for breakout rooms.
+
 
 {% comment %}
 The conference will be held at the **Lundbeckfond Auditorium, Biocenter, North Campus** of University of Copenhagen. The Lundbeckfond Auditorium was donated by the Lundbeck Foundation and can accommodate 340 people.
