@@ -11,6 +11,7 @@ SSDBM 2023 will be hosted by the University of Southern California’s Informati
 ## Announcements
 
 - Call for Papers is announced! [Please see this page](calls.html) for full details.
+- More information coming soon!
 
 ## News and Highlights
 
