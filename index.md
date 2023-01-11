@@ -14,7 +14,7 @@ SSDBM 2023 will be hosted by the University of Southern California’s Informati
 
 ## News and Highlights
 
-- Coming soon.
+- Regular, short and demo papers will be accepted in the research track.
 
 ## Conference Officers
 
@@ -25,5 +25,17 @@ Carl Kesselman, University of Southern California<br>
 **Program Chair**<br>
 Robert Schuler, University of Southern California<br>
 
+**Web Chair**<br>
+Cristina Williams, University of Southern California<br>
 
-<!-- [Johann Gamper](https://www.inf.unibz.it/~gamper/), Free University of Bozen-Bolzano, Italy<br> -->
+**Steering Committee**<br>
+Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br>
+John Wu, Lawrence Berkeley National Lab (Chair)<br>
+Michael Böehlen, University of Zurich<br>
+Tanu Malik, DePaul University<br>
+Xingquan (Hill) Zhu, Florida Atlantic University<br>
+Yongluan Zhou, University of Copenhagen<br>
+
+[//]: # (Elaheh Pourabbas, CNR, Italy)
+
+[//]: # (Ioana Manolescu, Inria, Paris, France)
