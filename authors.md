@@ -29,4 +29,6 @@ Topics of particular interest include, but are not limited to, the following, as
 - Internet of Things data analytics
 - Smart city applications and services
 
-The submission site is on [Easychair](https://easychair.org/conferences/?conf=ssdbm2023).
+The submission site is TBA.
+
+[//]: # (on [Easychair]&#40;https://easychair.org/conferences/?conf=ssdbm2023&#41;.)
