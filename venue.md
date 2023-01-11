@@ -5,7 +5,7 @@ layout: default
 
 # Conference Venue
 
-The conference will be held in the **University of Southern California’s Information Sciences Institute (USC/ISI)**. ISI is an off-campus research institute located in Marina Del Rey, CA. One of the largest computer science research institutes in the country, ISI has played a critical role in creation of computing technology including the development of DNS, serving as RFC editor, and development of Grid Computing technologies. In addition to housing over 100 researchers, the ISI facility is home to a Quantum Computing facility, and operates the Root B server for the Internet Domain Name Service.
+The conference will be held in the **University of Southern California’s Information Sciences Institute (USC/ISI)**. ISI is an off-campus research institute located in Marina del Rey, California USA (in the Greater Los Angeles Area). One of the largest computer science research institutes in the country, ISI has played a critical role in creation of computing technology including the development of DNS, serving as RFC editor, and development of Grid Computing technologies. In addition to housing over 100 researchers, the ISI facility is home to a Quantum Computing facility, and operates the Root B server for the Internet Domain Name Service.
 
 The ISI facility is conveniently located with respect to Los Angles International Airport, providing easy access from any international and domestic location.
 
