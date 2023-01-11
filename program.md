@@ -19,6 +19,10 @@ layout: default
     }
 </style>
 
+TBA
+
+
+{% comment %}
 **Day 1 (Monday July 10):**
 
 TBA	   
@@ -62,4 +66,6 @@ TBA 				                        |
 
 ### Research Session 6
 
-TBA 
+TBA
+
+{% endcomment %}
