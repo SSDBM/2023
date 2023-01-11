@@ -5,6 +5,9 @@ layout: default
 
 # Social Events
 
+TBA
+
+{% comment %}
 Thursday, July 7
 
 ## Copenhagen Walking Tour (17:20 - 19:00)
@@ -26,3 +29,4 @@ Restaurant Tårnet is located inside the tower of Christiansborg Palace, where t
 ![Tårnet](./assets/images/tarnet3.png)
 ![Tårnet](./assets/images/tarnet4.png)
 Restaurant Tårnet
+{% endcomment %}

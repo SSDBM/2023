@@ -5,7 +5,10 @@ layout: default
 
 # Conference Venue
 
-The conference will be held in the **Lundbeckfond Auditorium, Biocenter, North Campus** of University of Copenhagen. The Lundbeckfond Auditorium was donated by the Lundbeck Foundation and can accommodate 340 people.
+TBA
+
+{% comment %}
+The conference will be held at the **Lundbeckfond Auditorium, Biocenter, North Campus** of University of Copenhagen. The Lundbeckfond Auditorium was donated by the Lundbeck Foundation and can accommodate 340 people.
 
 **Notice**: Due to the summer vacation, the Biocenter building has all the doors locked. If you cannot get into the building, please contact (SMS) our assistant Yijian (+45 50385640) and she will open the door for you.
 
@@ -53,3 +56,4 @@ North Campus lies in the triangle between Nørre Allé, Jagtvej and Tagensvej. I
 ![North Campus](./assets/images/diku3.png)
 
 ![North Campus](./assets/images/diku4.png)
+{% endcomment %}
