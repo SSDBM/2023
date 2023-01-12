@@ -30,7 +30,9 @@ Topics of particular interest include, but are not limited to, the following, as
 
 - Modeling of scientific data
 - Indexing and querying scientific data, including spatial, temporal, and streaming data
+- FAIR data principles (Findable, Accessible, Interoperable, Reusable)
 - Provenance data management
+- Schema evolution
 - Data integration
 - Visualization and exploration of large datasets
 - Spatial, temporal and spatio-temporal scientific data
