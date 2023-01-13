@@ -5,7 +5,18 @@ layout: default
 
 # Social Events
 
-TBA
+## Welcome Reception
+
+All social events will be held within walking distance of ISI and will take advantage of Southern California’s excellent climate and proximity to the ocean.
+
+We plan to hold an opening reception at a local restaurant that is walking distance from ISI and local marina hotels. This facility features an outside patio on the water, and we propose to have a cash bar and provide heavy appetizers for attendees.
+
+## Marina Boat tours
+ISI is located on the water in the Marina and has close access to a charter boat service. We plan to schedule a three-hour boat tour with dinner arranged for **Tuesday July 11th, 2023**. Dinner will be sit-down and will take place on the boat as part of the tour.
+
+![Marina Boat Tour](./assets/images/marina-boat-tour.jpg)
+
+Please visit this page again for updates on more events and further details as they are made available.
 
 {% comment %}
 Thursday, July 7
