@@ -5,12 +5,12 @@ layout: default
 
 # Conference Venue
 
-The conference will be held in the [University of Southern California’s Information Sciences Institute (USC/ISI)](https://www.isi.edu/) 
+The conference will be held in the [University of Southern California’s Information Sciences Institute (USC/ISI)](https://www.isi.edu/)
 at [4676 Admiralty Way, Suite 1001, Marina del Rey, CA 90292](https://www.isi.edu/contact/#locations)
 ([Directions](https://goo.gl/maps/2f9C6U5hdMS3SQut9)).
 The ISI facility is conveniently located with respect to Los Angeles International Airport (LAX), providing easy access from any international and domestic location.
 
-[//]: # (Insert Figure 1 Map)
+![Information Sciences Institute building in Marina del Rey, CA](./assets/images/isi-usc.jpg)
 
 ### USC Information Sciences Institute
 
