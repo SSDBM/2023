@@ -49,5 +49,6 @@ Topics of particular interest include, but are not limited to, the following, as
 - Distributed systems and devices
 - Internet of Things data analytics
 - Smart city applications and services
+- Database support of machine learning and AI
 
 For questions regarding the call for papers, contact [ssdbm2023@easychair.org](mailto:ssdbm2023@easychair.org).
