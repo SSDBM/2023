@@ -13,7 +13,7 @@ SSDBM 2023 will be hosted by the University of Southern California’s Informati
 
 Authors are invited to submit original, unpublished manuscripts. We solicit research papers (long and short), and demo papers. All submissions should be formatted according to the [ACM Master Article “sigconf” proceedings template](https://www.acm.org/publications/proceedings-template). SSDBM 2023 is single-blind reviewed; authors must include their names and affiliations on the first page.
 
-* Submission deadline: **April 16 at 23:59 AoE (Anywhere on Earth) time**
+* Submission deadline: **April 16** at 23:59 AoE (Anywhere on Earth)
 * Submission site: [Easychair](https://easychair.org/conferences/?conf=ssdbm2023)
 
 ## Research Papers (long and short)
