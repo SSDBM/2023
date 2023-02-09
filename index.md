@@ -11,11 +11,12 @@ SSDBM 2023 will be hosted by the University of Southern California’s Informati
 ## Announcements
 
 - Call for Papers is announced! [Please see this page](calls.html) for full details.
-- More information coming soon!
+- Please submit your paper [here](https://easychair.org/conferences/?conf=ssdbm2023).
 
 ## News and Highlights
 
-- Regular, short and demo papers will be accepted in the research track.
+- The best papers will be considered for publication in Distributed and Parallel Databases (DAPD).
+- Regular, short and demo papers will be accepted in the research track. All papers will appear in the proceedings to be published by ACM ICPS.
 
 ## Conference Officers
 
@@ -25,6 +26,12 @@ Carl Kesselman, University of Southern California<br>
 
 **Program Chair**<br>
 Robert Schuler, University of Southern California<br>
+
+**Demo Chair**<br>
+Kyle Chard, University of Chicago and Argonne National Lab<br>
+
+**Proceedings Chair**<br>
+Alejandro Bugacov, University of Southern California<br>
 
 **Web Chair**<br>
 Cristina Williams, University of Southern California<br>

@@ -9,6 +9,8 @@ The SSDBM international conference brings together scientific domain experts, da
 
 SSDBM 2023 will be hosted by the University of Southern California’s Information Sciences Institute (USC/ISI) and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas.
 
+The Proceedings of SSDBM 2023 will be published by ACM ICPS and will be available in the ACM Digital Library. The best papers will be considered for publication in the Distributed and Parallel Databases (DAPD) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.
+
 ## Submission Guidelines
 
 Authors are invited to submit original, unpublished manuscripts. We solicit research papers (long and short), and demo papers. All submissions should be formatted according to the [ACM Master Article “sigconf” proceedings template](https://www.acm.org/publications/proceedings-template). SSDBM 2023 is single-blind reviewed; authors must include their names and affiliations on the first page.

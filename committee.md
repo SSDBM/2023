@@ -12,23 +12,29 @@ layout: default
 **Souvik Bhattacherjee**, University of Maryland<br>
 **Suren Byna**, The Ohio State University<br>
 **Klemens Böhm**, Karlsruhe Institute of Technology<br>
-**Kyle Chard**, Computation Institute, University of Chicago and Argonne National Lab<br>
+**Kyle Chard**, University of Chicago and Argonne National Lab<br>
+**Amit Chavan**, University of Maryland<br>
 **Joseph Davis**, The University of Sydney<br>
 **Bin Dong**, Lawrence Berkeley National Lab, Berkeley, CA, USA<br>
 **Eduard Dragut**, Temple University<br>
 **Ian Foster**, Argonne National Laboratory & The University of Chicago<br>
 **Filippo Furfaro**, DIMES - University of Calabria<br>
 **Tingjian Ge**, University of Massachusetts, Lowell<br>
+**Lukasz Golab**, University of Waterloo<br>
+**Ali Hadian**, Imperial College London<br>
 **Peiquan Jin**, University of Science and Technology of China<br>
 **Verena Kantere**, University of Ottawa<br>
+**Panagiotis Karras**, Aarhus University<br>
 **Jinoh Kim**, Texas A&M University-Commerce<br>
 **Seokki Lee**, University of Cincinnati<br>
+**Jeff Lefevre**, University of California, Santa Cruz<br>
 **Ulf Leser**, Institut für Informatik, Humboldt-Universität zu Berlin<br>
 **Xin Liang**, University of California, Riverside<br>
 **Chuan-Ming Liu**, National Taipei University of Technology<br>
 **Mengchi Liu**, Carleton University<br>
 **Federica Mandreoli**, DII - University of Modena<br>
 **Kshitij Mehta**, Oak Ridge National Laboratory<br>
+**Niccolo Meneghetti**, University of Michigan-Dearborn<br>
 **Paolo Missier**, Newcastle University<br>
 **Bongki Moon**, Seoul National University<br>
 **Alexander Rasin**, DePaul University<br>
@@ -37,6 +43,7 @@ layout: default
 **Iulian Sandu Popa**, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France<br>
 **Jagan Sankaranarayanan**, NEC Labs America<br>
 **Robert Schuler**, USC Information Sciences Institute<br>
+**Maximilian Schüle**, University of Bamberg<br>
 **Galen Shipman**, Los Alamos National Laboratory<br>
 **Tarique Siddiqui**, Microsoft Research<br>
 **Kurt Stockinger**, Zurich University of Applied Sciences<br>
@@ -48,8 +55,9 @@ layout: default
 **Zichen Xu**, Nanchang University<br>
 **Feng Yu**, Southern Illinois University Carbondale<br>
 **Hongfeng Yu**, University of Nebraska-Lincoln<br>
+**Chi Zhang**, BRANDEIS UNIVERSITY<br>
 **Xuechen Zhang**, Washington State University<br>
-**Chi Zhang**, Brandeis University<br>
+**Ming Zhao**, Arizona State University<br>
 **Qiang Zhu**, University of Michigan - Dearborn<br>
 **Sotirios Ziavras**, New Jersey Institute of Technology<br>
 **Jia Zou**, Arizona State University<br>
