@@ -7,6 +7,7 @@ layout: default
 The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical database applications. The 35th SSDBM will provide a forum for original research contributions and practical system design, implementation and evaluation. The conference program typically consists of a single track to facilitate discussion, and contains presentations of invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
 
 SSDBM 2023 will be hosted by the University of Southern California’s Information Sciences Institute (USC/ISI) and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas.
+The conference will be held _in-person_ in Marina del Rey, California USA (coastal Los Angeles area).
 
 ## Announcements
 

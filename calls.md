@@ -13,7 +13,11 @@ The Proceedings of SSDBM 2023 will be published by ACM ICPS and will be availabl
 
 ## Submission Guidelines
 
-Authors are invited to submit original, unpublished manuscripts. We solicit research papers (long and short), and demo papers. All submissions should be formatted according to the [ACM Master Article “sigconf” proceedings template](https://www.acm.org/publications/proceedings-template). SSDBM 2023 is single-blind reviewed; authors must include their names and affiliations on the first page.
+Authors are invited to submit original, unpublished manuscripts. We solicit research papers (long and short), and demo papers. 
+All submissions should be formatted according to the [ACM Master Article “sigconf” proceedings template](https://www.acm.org/publications/proceedings-template). 
+SSDBM 2023 is single-blind reviewed; authors must include their names and affiliations on the first page. 
+All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/authorship-policy).
+At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
 
 * Submission deadline: **April 16** at 23:59 AoE (Anywhere on Earth)
 * Submission site: [Easychair](https://easychair.org/conferences/?conf=ssdbm2023)
