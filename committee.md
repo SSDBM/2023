@@ -12,7 +12,7 @@ layout: default
 **Souvik Bhattacherjee**, University of Maryland<br>
 **Suren Byna**, The Ohio State University<br>
 **Klemens Böhm**, Karlsruhe Institute of Technology<br>
-**Kyle Chard**, University of Chicago and Argonne National Lab<br>
+**Kyle Chard**, Computation Institute, University of Chicago and Argonne National Lab<br>
 **Amit Chavan**, University of Maryland<br>
 **Joseph Davis**, The University of Sydney<br>
 **Bin Dong**, Lawrence Berkeley National Lab, Berkeley, CA, USA<br>
@@ -32,6 +32,7 @@ layout: default
 **Xin Liang**, University of California, Riverside<br>
 **Chuan-Ming Liu**, National Taipei University of Technology<br>
 **Mengchi Liu**, Carleton University<br>
+**Tanu Malik**, DePaul University<br>
 **Federica Mandreoli**, DII - University of Modena<br>
 **Kshitij Mehta**, Oak Ridge National Laboratory<br>
 **Niccolo Meneghetti**, University of Michigan-Dearborn<br>
