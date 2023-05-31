@@ -5,11 +5,11 @@ layout: default
 
 # Camera Ready Instructions
 
-TBA
-
 {% comment %}
 
-The deadline for submitting the camera-ready paper is **June 6**. This is a hard deadline; late submissions will not be included in the proceedings. Each paper must have a registration at the conference. The deadline for registering is also **June 6** and detailed instructions will follow. 
+The deadline for submitting the camera-ready paper is **June 9**. This is a hard deadline; late submissions will not be included in the proceedings. Each paper must have a registration at the conference. The deadline for registering is also **June 9** and detailed instructions will follow. 
+
+{% endcomment %}
 
 ## Copyright form and camera-ready submission
 
@@ -37,5 +37,3 @@ When preparing the camera-ready version, please consider the following points.
    * Adhere to the page limits: 12 pages for full papers, 4 pages for short papers
    * Page size should be US-Letter 8.5in x 11in (around 21.59cm x 27.94cm).
    * All fonts must be Type 1 (scalable) or TrueType, and not Type 3 (bit-mapped). All fonts must be embedded within the PDF file.
-
-{% endcomment %}

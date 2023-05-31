@@ -11,6 +11,7 @@ The conference will be held _in-person_ in Marina del Rey, California USA (coast
 
 ## Announcements
 
+- Notifications to authors will be sent on June 2, 2023.
 - Submission deadline has been extended to **April 30, 2023**.
 - Call for Papers is announced! [Please see this page](calls.html) for full details.
 - Please submit your paper [here](https://easychair.org/conferences/?conf=ssdbm2023).
