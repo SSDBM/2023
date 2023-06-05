@@ -5,7 +5,7 @@ layout: default
 
 # Registration
 
-TBA
+Coming soon!
 
 {% comment %}
 
