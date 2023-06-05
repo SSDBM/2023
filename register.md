@@ -8,22 +8,23 @@ layout: default
 TBA
 
 {% comment %}
-**The deadline for author registration is June 10.** If the registration is not received in time, the paper will not be included in the proceedings. There should be at least one author registration per paper.
 
-To register please click [here](https://eventsignup.ku.dk/ssdbm).
+To register, please click [here](https://TBD).
 
-**Registration Fees (All prices are incl. VAT)**
+**Registration Fees (all transaction fees included)**
 
+|                  | Before July 10 | As of July 10 |
+|------------------|----------------|---------------|
+| Registration     | 550 USC        | 600 USD       |
 
-|                      | Earlybird (by June 20) | Late (after June 20) |
-|----------------------|------------------------|----------------------|
-| Regular registration |        500 Euro        |       600 Euro       |
-| Student registration |        400 Euro        |       500 Euro       |
+## Author Regisration
 
-
+**The deadline for author registration is June 17, 2023.** If the registration is not received in time, the paper will not be included in the proceedings. There should be at least one author registration per paper.
 
 ## Cancellation Policy
 
-Registrations can be canceled and refunded before the early registration deadline.
+Registrations can be canceled and refunded one week before the conference (July 2, 2023).
+
+Author registrations are non-refundable.
 
 {% endcomment %}

@@ -11,6 +11,8 @@ The conference will be held _in-person_ in Marina del Rey, California USA (coast
 
 ## Announcements
 
+- Camera-ready papers due by June 17, 2023.
+- Conference registration site will open week of June 5, 2023.
 - Notifications to authors will be sent on June 2, 2023.
 - Submission deadline has been extended to **April 30, 2023**.
 - Call for Papers is announced! [Please see this page](calls.html) for full details.
