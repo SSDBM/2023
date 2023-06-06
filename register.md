@@ -5,13 +5,7 @@ layout: default
 
 # Registration
 
-Registration will open soon, please check back later today!
-
-{% comment %}
-
-Please register for SSDBM 2023 on [**eventbrite**](https://www.eventbrite.com/e/ssdbm-2023-tickets-651247828787).
-
-{% endcomment %}
+Registration is now open! Please register for SSDBM 2023 on [**eventbrite**](https://www.eventbrite.com/e/651247828787).
 
 ### Registration Fees
 
