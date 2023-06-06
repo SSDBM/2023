@@ -11,9 +11,9 @@ The conference will be held _in-person_ in Marina del Rey, California USA (coast
 
 ## Announcements
 
-- [Accepted papers](accepted-papers.html) have been announced!
+- [Registration](./register.md) is now open!
+- [Accepted papers](accepted-papers.html) have been announced.
 - [Camera-ready](camera_ready.html) papers due by **June 17, 2023**.
-- [Conference registration](register.html) site will open week of June 5, 2023.
 - Notifications to authors will be sent on June 2, 2023.
 - Submission deadline has been extended to April 30, 2023.
 - Call for Papers is announced! [Please see this page](calls.html) for full details.
@@ -21,6 +21,7 @@ The conference will be held _in-person_ in Marina del Rey, California USA (coast
 
 ## News and Highlights
 
+- The conference program will consist of 3 [keynotes](./keynotes.md), 16 full paper presentations, 8 short paper presentations, and 1 demonstration (see [accepted papers](./accepted-papers.md))
 - The best papers will be considered for publication in Distributed and Parallel Databases (DAPD).
 - Regular, short and demo papers will be accepted in the research track. All papers will appear in the proceedings to be published by ACM ICPS.
 
