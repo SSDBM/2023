@@ -19,8 +19,12 @@ layout: default
     }
 </style>
 
-TBA
+The conference will be held July 10-12, 2023 in Marina del Rey, California USA (in coastal Los Angeles).
+Day 1 will consist of a morning keynote, three research sessions, and an evening welcome and poster reception.
+Day 2 will consist of a morning keynote, three research sessions, and the conference banquet in the evening.
+Day 3 will consist of a morning keynote, one research session, and conclude with lunch.
 
+Details coming soon!
 
 {% comment %}
 **Day 1 (Monday July 10):**
@@ -42,11 +46,11 @@ TBA
 
 ### Research Session 1
 
-TBA                                                       |
+TBA
 
 ### Research Session 2
 
-TBA 					                                                    |
+TBA
 
 ### Research Session 3
 
@@ -56,11 +60,11 @@ TBA
 
 ### Research Session 4
 
-TBA 			                                                                                                        |
+TBA
 
 ### Research Session 5
 
-TBA 				                        |
+TBA
 
 ## Day 3 (Wednesday July 12):
 

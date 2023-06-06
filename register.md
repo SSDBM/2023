@@ -5,26 +5,26 @@ layout: default
 
 # Registration
 
-Coming soon!
+Registration will open soon... **please check back again tomorrow**!
 
 {% comment %}
 
-To register, please click [here](https://TBD).
+To register online, please click [here](https://TBD).
 
-**Registration Fees (all transaction fees included)**
+{% endcomment %}
 
-|                  | Before July 10 | As of July 10 |
-|------------------|----------------|---------------|
-| Registration     | 550 USC        | 600 USD       |
+**Registration Fees (transaction fees and taxes included)**
 
-## Author Regisration
+|                  | Online (before July 10) | Onsite (at the door)   |
+|------------------|-------------------------|------------------------|
+| Registration     | $550 USD                | $600 USD               |
 
-**The deadline for author registration is June 17, 2023.** If the registration is not received in time, the paper will not be included in the proceedings. There should be at least one author registration per paper.
+## Author Registration
+
+**The deadline for author registration is June 17, 2023.**
+If the registration is not received in time, the paper will not be included in the proceedings. 
+There should be at least one author registration per paper.
 
 ## Cancellation Policy
 
-Registrations can be canceled and refunded one week before the conference (July 2, 2023).
-
-Author registrations are non-refundable.
-
-{% endcomment %}
+Registrations can be canceled and refunded up until **July 2, 2023** one week before the conference. **Author registrations are non-refundable.**

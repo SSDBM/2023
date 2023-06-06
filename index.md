@@ -11,10 +11,11 @@ The conference will be held _in-person_ in Marina del Rey, California USA (coast
 
 ## Announcements
 
-- Camera-ready papers due by June 17, 2023.
-- Conference registration site will open week of June 5, 2023.
+- [Accepted papers](accepted-papers.html) have been announced!
+- [Camera-ready](camera_ready.html) papers due by **June 17, 2023**.
+- [Conference registration](register.html) site will open week of June 5, 2023.
 - Notifications to authors will be sent on June 2, 2023.
-- Submission deadline has been extended to **April 30, 2023**.
+- Submission deadline has been extended to April 30, 2023.
 - Call for Papers is announced! [Please see this page](calls.html) for full details.
 - Please submit your paper [here](https://easychair.org/conferences/?conf=ssdbm2023).
 
