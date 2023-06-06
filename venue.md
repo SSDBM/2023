@@ -8,11 +8,12 @@ layout: default
 The conference will be held in the [University of Southern California’s Information Sciences Institute (USC/ISI)](https://www.isi.edu/)
 at [4676 Admiralty Way, Suite 1001, Marina del Rey, CA 90292](https://www.isi.edu/contact/#locations)
 ([Directions](https://goo.gl/maps/2f9C6U5hdMS3SQut9)).
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.473485747846!2d-118.44266112306653!3d33.98037002151968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2ba807dea72f9%3A0x1e85548fc5979edf!2s4676%20Admiralty%20Way%2C%20Marina%20Del%20Rey%2C%20CA%2090292!5e0!3m2!1sen!2sus!4v1686073161085!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 The ISI facility is conveniently located with respect to Los Angeles International Airport (LAX), providing easy access from any international and domestic location.
 
 ![Information Sciences Institute building in Marina del Rey, CA](./assets/images/isi-usc.jpg)
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.473485747846!2d-118.44266112306653!3d33.98037002151968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2ba807dea72f9%3A0x1e85548fc5979edf!2s4676%20Admiralty%20Way%2C%20Marina%20Del%20Rey%2C%20CA%2090292!5e0!3m2!1sen!2sus!4v1686073161085!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### USC Information Sciences Institute
 
@@ -30,7 +31,7 @@ ISI is also walking distance from [Burton W. Chase Park](https://visitmdr.com/th
 
 Lunches, breaks, and the poster and demo sessions will be held in the 11th floor conference room in the building. In addition, there are a number of additional intermediate sized rooms in the ISI facility that can be used for breakout rooms.
 
-ISI is located within reach of many [Los Angeles area attractions](https://visitmdr.com/2021/09/27/los-angeles-attractions-near-marina-del-rey), including Venice Beach, Santa Monica Pier, Hollywood studio tours, amusement parks, and museums.
+ISI is located within reach of many [Los Angeles area attractions](https://visitmdr.com/2021/09/27/los-angeles-attractions-near-marina-del-rey), including [Venice Beach](https://www.laparks.org/venice/), Santa Monica Pier, Hollywood studio tours, amusement parks, and museums.
 For the month of July, the historical average temperatures are a high of 75°F (23°C) and lows of 64°F (18°C) along the coast.
 
 ![Venice](./assets/images/Venice-2.jpg)
