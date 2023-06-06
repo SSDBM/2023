@@ -20,11 +20,24 @@ layout: default
 </style>
 
 The conference will be held July 10-12, 2023 in Marina del Rey, California USA (in coastal Los Angeles).
-Day 1 will consist of a morning keynote, three research sessions, and an evening welcome and poster reception.
-Day 2 will consist of a morning keynote, three research sessions, and the conference banquet in the evening.
-Day 3 will consist of a morning keynote, one research session, and conclude with lunch.
 
-Details coming soon!
+**Summary***
+
+| Day     | Events                                                                       |
+|---------|------------------------------------------------------------------------------|
+ | July 10 | Registration, Keynote 1, Research Sessions 1-3, Welcome and Poster Reception |
+ | July 11 | Keynote 2, Research Sessions 4-6, Conference Banquet                         |
+ | July 12 | Keynote 3, Research Session 7, Lunch and Closing                             |
+
+* Registration will begin at 08:00 AM on Day 1.
+* Breakfast (08:30 AM) and Lunch (12:00 PM) will be provided at the conference each day.
+* Each day will begin with a Keynote speaker at 09:00 AM.
+* Day 1 will conclude with a catered reception (appetizers).
+* Day 2 will conclude with a banquet reception (full dinner).
+* Day 3 concludes mid-day.
+* Research sessions will consist of 25 minutes presentations of "full" research papers and 15 minute presentations of "short" research papers from the list of [accepted papers](./accepted-papers.md).
+
+Detailed schedule to follow.
 
 {% comment %}
 **Day 1 (Monday July 10):**

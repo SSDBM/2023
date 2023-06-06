@@ -5,21 +5,21 @@ layout: default
 
 # Registration
 
-Registration will open soon, please check back again tomorrow!
+Registration will open soon, please check back later today!
 
 {% comment %}
 
-To register online, please click [here](https://TBD).
+Please register for SSDBM 2023 on [**eventbrite**](https://www.eventbrite.com/e/ssdbm-2023-tickets-651247828787).
 
 {% endcomment %}
 
 ### Registration Fees
 
+The registration fees listed below include all transaction fees and taxes.
+
 |                  | Online (before July 10) | Onsite (at the door)   |
 |------------------|-------------------------|------------------------|
 | Registration     | $550 USD                | $600 USD               |
-
-The registration fee includes all transaction fees and taxes.
 
 ### Author Registration
 The deadline for author registration is **June 17, 2023**.
