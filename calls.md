@@ -9,7 +9,7 @@ The SSDBM international conference brings together scientific domain experts, da
 
 SSDBM 2023 will be hosted by the University of Southern California’s Information Sciences Institute (USC/ISI) and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas.
 
-The Proceedings of SSDBM 2023 will be published by ACM ICPS and will be available in the ACM Digital Library. The best papers will be considered for publication in the Distributed and Parallel Databases (DAPD) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.
+The Proceedings of SSDBM 2023 will be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list). The best papers will be considered for publication in the [Distributed and Parallel Databases (DAPD)](https://www.springer.com/journal/10619) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782.
 
 ## Submission Guidelines
 
@@ -19,7 +19,7 @@ SSDBM 2023 is single-blind reviewed; authors must include their names and affili
 All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/authorship-policy).
 At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
 
-* Submission deadline: **April 30** at 23:59 AoE (Anywhere on Earth)
+* Submission deadline: <s>**April 30** at 23:59 AoE (Anywhere on Earth)</s>
 * Submission site: [Easychair](https://easychair.org/conferences/?conf=ssdbm2023)
 
 ## Research Papers (long and short)
