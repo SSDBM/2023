@@ -5,7 +5,7 @@ layout: default
 
 # Registration
 
-Registration is now open! Please register for SSDBM 2023 on [**eventbrite**](https://www.eventbrite.com/e/651247828787).
+Registration is now open! Please register for SSDBM 2023 on [eventbrite](https://www.eventbrite.com/e/651247828787) at [https://www.eventbrite.com/e/651247828787](https://www.eventbrite.com/e/651247828787).
 
 ### Registration Fees
 
