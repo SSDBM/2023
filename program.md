@@ -21,7 +21,7 @@ layout: default
 
 The conference will be held July 10-12, 2023 in Marina del Rey, California USA (in coastal Los Angeles).
 
-**Summary***
+**Summary**
 
 | Day     | Events                                                                       |
 |---------|------------------------------------------------------------------------------|
@@ -29,9 +29,9 @@ The conference will be held July 10-12, 2023 in Marina del Rey, California USA (
  | July 11 | Keynote 2, Research Sessions 4-6, Conference Banquet                         |
  | July 12 | Keynote 3, Research Session 7, Lunch and Closing                             |
 
-* Registration will begin at 08:00 AM on Day 1.
-* Breakfast (08:30 AM) and Lunch (12:00 PM) will be provided at the conference each day.
-* Each day will begin with a Keynote speaker at 09:00 AM.
+* Registration will begin at 8:00 AM on Day 1.
+* Breakfast (8:30 AM) and Lunch (12:00 PM) will be provided at the conference each day.
+* Each day will begin with a Keynote speaker at 9:00 AM.
 * Day 1 will conclude with a catered reception (appetizers).
 * Day 2 will conclude with a banquet reception (full dinner).
 * Day 3 concludes mid-day.
