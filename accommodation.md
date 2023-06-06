@@ -19,3 +19,5 @@ Within a long walk or short drive of the venue:
 * [Hilton Garden Inn Marina Del Rey](https://www.hilton.com/en/locations/usa/california/marina-del-rey/hilton-garden-inn)
 * [Marina del Rey Marriott](https://www.marriott.com/en-us/hotels/laxmb-marina-del-rey-marriott/)
 * [Courtyard Marriott Marina del Rey](https://www.marriott.com/hotels/hotel-photos/laxci-courtyard-marina-del-rey/)
+
+For more information about the local area around ISI, go to [Visit Marina del Rey](https://visitmdr.com/things-to-do/beaches-and-parks).
