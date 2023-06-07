@@ -34,11 +34,14 @@ Carl Kesselman, University of Southern California<br>
 **Program Chair**<br>
 Robert Schuler, University of Southern California<br>
 
-**Short Paper Chair**<br>
+**Poster Chair**<br>
 Kyle Chard, University of Chicago and Argonne National Lab<br>
 
 **Proceedings Chair**<br>
 Alejandro Bugacov, University of Southern California<br>
+
+**Local Arrangements Chairs**<br>
+Shawn Sanders and Jessica Madrigal, University of Southern California<br>
 
 **Web Chair**<br>
 Cristina Williams, University of Southern California<br>
