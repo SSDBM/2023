@@ -36,3 +36,5 @@ When preparing the camera-ready version, please consider the following points.
    * Adhere to the page limits: 12 pages for full papers, 4 pages for short papers
    * Page size should be US-Letter 8.5in x 11in (around 21.59cm x 27.94cm).
    * All fonts must be Type 1 (scalable) or TrueType, and not Type 3 (bit-mapped). All fonts must be embedded within the PDF file.
+
+[![ACM ICPS](./assets/images/ACM_ICPS_v.2B.jpg)](https://www.acm.org/publications/icps)
