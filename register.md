@@ -7,13 +7,15 @@ layout: default
 
 Registration is now open! Please register for SSDBM 2023 on [eventbrite](https://www.eventbrite.com/e/651247828787) at [https://www.eventbrite.com/e/651247828787](https://www.eventbrite.com/e/651247828787).
 
+Note that the format of the event is in-person (it is not remote or hybrid).
+
 ### Registration Fees
 
 The registration fees listed below include all transaction fees and taxes.
 
-|                  | Online (before July 10) | Onsite (at the door)   |
-|------------------|-------------------------|------------------------|
-| Registration     | $550 USD                | $600 USD               |
+|                  | before July 10 | July 10 or later |
+|------------------|----------------|------------------|
+| Registration     | $550 USD       | $600 USD         |
 
 ### Author Registration
 The deadline for author registration is **June 17, 2023**.
