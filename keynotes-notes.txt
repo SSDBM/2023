@@ -1,6 +1,7 @@
 -----HELEN-----
 
-TBD
+Bio:
+Helen Berman is a Board of Governors Distinguished Professor Emerita of Chemistry and Chemical Biology at Rutgers University. Currently, she Is a Research Professor at the University of Southern California. Her research has focused on the structural biology of nucleic acids, protein-nucleic acid interactions, and collagen.  She helped co found the Protein Data Bank (PDB) in 1971 and was the Director of the RCSB PDB from 1998-2014. She has been active in developing and maintaining other community resources including the Nucleic Acid Database and the Electron Microscopy Data Resource. In addition to her research and the creation of data resources, she is working on ways to use the digital arts to communicate about the importance of structural biology in medicine and health. Helen received her A.B. in Chemistry from Barnard College and her Ph.D. in crystallography at University of Pittsburgh.
 
 -----ANDY-----
 
