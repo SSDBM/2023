@@ -13,17 +13,17 @@ The conference will be held _in-person_ in Marina del Rey, California USA (coast
 
 - [Registration](./register.md) is now open!
 - [Accepted papers](accepted-papers.html) have been announced.
-- [Camera-ready](camera_ready.html) papers and [author registration](./register.md) due by **June 17, 2023**.
-- Notifications to authors will be sent on June 2, 2023.
+- [Camera-ready](camera_ready.html) papers and [author registration](./register.md) deadlines have been extended.
+- <s>Notifications to authors will be sent on June 2, 2023.</s>
 - <s>Submission deadline has been extended to April 30, 2023.</s>
 - <s>Call for Papers is announced! [Please see this page](calls.html) for full details.</s>
 - <s>Please submit your paper [here](https://easychair.org/conferences/?conf=ssdbm2023).</s>
 
 ## News and Highlights
 
-- The conference program will consist of 3 [keynotes](./keynotes.md), 16 full paper presentations, 8 short paper presentations and posters, and 1 demonstration (see [accepted papers](./accepted-papers.md))
+- The conference program will consist of 3 [keynotes](./keynotes.md), 16 full paper presentations, 8 short paper presentations, 9 posters, and 1 demonstration (see [accepted papers](./accepted-papers.md)).
 - The best papers will be considered for publication in [Distributed and Parallel Databases (DAPD)](https://www.springer.com/journal/10619).
-- Regular, short and demo papers will be accepted in the research track. All papers will appear in the proceedings to be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list).
+- Regular, short, poster and demo papers will be accepted in the research track. All papers will appear in the proceedings to be published by [Association of Computing Machinery (ACM)](https://www.acm.org/) [International Conference Proceeding Series (ICPS)](https://www.acm.org/publications/icps) and will appear in the [ACM Digital Library](https://www.acm.org/publications/digital-library) and many [indexing providers](https://authors.acm.org/journals/journals-indexing-list).
 
 ## Conference Officers
 

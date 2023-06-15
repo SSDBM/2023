@@ -5,10 +5,10 @@ layout: default
 
 # Camera Ready Instructions
 
-The deadline for submitting the camera-ready paper is **June 17, 2023**. 
+
+Authors will receive emails from SIGCMS and TAPS with complete instructions for submitting the rights form and camera-ready copy of their paper. 
 Each paper must have a registration at the conference. 
-The deadline for registering is also **June 17, 2023** and detailed instructions will follow. 
-Authors should receive emails from SIGCMS and TAPS toward the end of the week of June 5, 2023.
+Please note that these instructions will not come from us the event organizers or the EasyChair conference management system. An overview of the process follows.
 
 ## Copyright form and camera-ready submission
 
