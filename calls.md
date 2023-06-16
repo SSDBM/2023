@@ -19,8 +19,8 @@ SSDBM 2023 is single-blind reviewed; authors must include their names and affili
 All authors should respect the [ACM Policy on Authorship](https://www.acm.org/publications/policies/authorship-policy).
 At least one author of each accepted paper or poster _must register and plan to attend_ the conference in-person. Each author registration can be applied to only one accepted submission.
 
-* Submission deadline: <s>**April 30** at 23:59 AoE (Anywhere on Earth)</s>
-* Submission site: [Easychair](https://easychair.org/conferences/?conf=ssdbm2023)
+* Submission deadline: April 30 at 23:59 AoE (Anywhere on Earth)
+* Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2023)
 
 ## Research Papers (long and short)
 

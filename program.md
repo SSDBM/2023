@@ -19,41 +19,54 @@ layout: default
     }
 </style>
 
-The conference will be held July 10-12, 2023 in Marina del Rey, California USA (in coastal Los Angeles).
+The program will consist of keynotes, research sessions, poster session, reception, and conference banquet. 
+Each day will begin with a light breakfast followed by a keynote presentation. 
+The research sessions will include presentations of full and short research papers. 
 
-**Summary**
-
-| Day     | Events                                                                       |
-|---------|------------------------------------------------------------------------------|
- | July 10 | Registration, Keynote 1, Research Sessions 1-3, Welcome and Poster Reception |
- | July 11 | Keynote 2, Research Sessions 4-6, Conference Banquet                         |
- | July 12 | Keynote 3, Research Session 7, Lunch and Closing                             |
-
-* Registration will begin at 8:00 AM on Day 1.
-* Breakfast (8:30 AM) and Lunch (12:00 PM) will be provided at the conference each day.
-* Each day will begin with a Keynote speaker at 9:00 AM.
-* Day 1 will conclude with a catered reception (appetizers).
-* Day 2 will conclude with a banquet reception (full dinner).
-* Day 3 concludes mid-day.
-* Research sessions will consist of 25 minutes presentations of "full" research papers and 15 minute presentations of "short" research papers from the list of [accepted papers](./accepted-papers.md).
-
-Detailed schedule to follow.
-
-{% comment %}
 **Day 1 (Monday July 10):**
 
-TBA	   
+| Time          | Events                                       |
+|---------------|----------------------------------------------|
+| 08:30 - 09:00 | Registration with coffee and light breakfast |
+| 09:00 - 09:15 | SSDBM Opening                                |
+| 09:15 - 10:15 | Keynote 1                                    |
+| 10:15 - 10:45 | Break                                        |
+| 10:45 - 12:00 | Research Session 1                           |
+| 12:00 - 13:30 | Lunch Break                                  |
+| 13:30 - 14:45 | Research Session 2                           |
+| 14:45 - 15:15 | Break                                        |
+| 15:15 - 16:15 | Research Session 3                           |
+| 16:15 - 18:15 | Poster and Reception                         |
 
 **Day 2 (Tuesday July 11):**
 
-TBA
+| Time           | Events                                       |
+|----------------|----------------------------------------------|
+| 08:30 - 09:00 | Registration with coffee and light breakfast |
+| 09:00 - 10:00 | Keynote 2                                    |
+| 10:00 - 10:30 | Break                                        |
+| 10:30 - 11:50 | Research Session 4                           |
+| 11:50 - 13:30 | Lunch Break                                  |
+| 13:30 - 14:45 | Research Session 5                           |
+| 14:45 - 15:15 | Break                                        |
+| 15:15 - 16:30 | Research Session 6                           |
+| 16:30 - 18:30 | Excursion                                    |
+| 18:30 - 20:30 | Conference Banquet                           |
 
 **Day 3 (Wednesday July 12):**
 
-TBA
+| Time           | Events                                       |
+|----------------|----------------------------------------------|
+| 08:30 - 09:00 | Registration with coffee and light breakfast |
+| 09:00 - 10:00 | Keynote 3                                    |
+| 10:00 - 10:30 | Break                                        |
+| 10:30 - 11:50 | Research Session 7                           |
+| 11:50 - 12:00 | Announcement of SSDBM 2024                   |
+| 12:00 - 13:30 | Closing and Lunch                            |
+
+Details of the scheduled keynotes and research sessions are to be announced (TBA).
 
 # Research Sessions
-
 
 ## Day 1 (Monday July 10):
 
@@ -79,10 +92,12 @@ TBA
 
 TBA
 
-## Day 3 (Wednesday July 12):
-
 ### Research Session 6
 
 TBA
 
-{% endcomment %}
+## Day 3 (Wednesday July 12):
+
+### Research Session 7
+
+TBA
