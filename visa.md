@@ -31,9 +31,10 @@ The USC Information Sciences Institute is conveniently located within a short dr
 * Hollywood Burbank Airport (BUR): 26.6 miles ([directions](https://www.google.com/maps/dir/BUR+airport+(BUR),+North+Hollywood+Way,+Burbank,+CA/USC+Information+Sciences+Institute,+4676+Admiralty+Way+%231001,+Marina+Del+Rey,+CA+90292/@34.0889032,-118.4387432,12z/data=!3m2!4b1!5s0x80c2ba809b451757:0xce2d7fcd5c9bf67c!4m13!4m12!1m5!1m1!1s0x80c2944d39cf4379:0x6de1181bf1d805f1!2m2!1d-118.3574036!2d34.1983122!1m5!1m1!1s0x80c2ba807e9dc4f7:0xcbfb9ebc54219723!2m2!1d-118.4400385!2d33.9800707?entry=ttu))
 * John Wayne Airport (SNA): 46.1 miles ([directions](https://www.google.com/maps/dir/John+Wayne+Airport+(SNA),+Airport+Way,+Santa+Ana,+CA/USC+Information+Sciences+Institute,+4676+Admiralty+Way+%231001,+Marina+Del+Rey,+CA+90292/@33.8313485,-118.4782535,10z/data=!3m2!4b1!5s0x80c2ba809b451757:0xce2d7fcd5c9bf67c!4m13!4m12!1m5!1m1!1s0x80dcdeedcbab40ef:0xc941e8f5c31119e2!2m2!1d-117.8623738!2d33.6778994!1m5!1m1!1s0x80c2ba807e9dc4f7:0xcbfb9ebc54219723!2m2!1d-118.4400385!2d33.9800707?entry=ttu))
 
-## Loca Transportation
+## Local Transportation
 
 * **Shuttle Bus**: We will provide a Shuttle Bus to/from the Banquet on Day 2 (July 11, 2023).
 * **Public Bus and Rail**: See [Metro](https://www.metro.net) for the Los Angeles Bus and Rail transportation.
 * **Rental Cars**: Rental cars are available at all nearby airports and are a great way to get around Los Angeles if you plan your own excursions and extended stay.
 * **Ride Sharing**: Ride sharing, especially [Uber](www.uber.com) and [Lyft](https://www.lyft.com), are very popular and convenient means of transportation in LA.
+* **Parking**: The conference venue (USC/ISI) has a paid parking structure adjacent to it. We will provide parking validation at the conference venue. Ask at registration.
