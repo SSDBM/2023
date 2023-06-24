@@ -242,3 +242,19 @@ _Michael Behringer (University of Stuttgart) and Pascal Hirmer (University of St
 Abstract
 
 Nowadays, the amount of data is growing rapidly. Through data mining and analysis, information and knowledge can be derived based on this growing volume of data. Different tools have been introduced in the past to specify data analysis scenarios in a graphical manner, for instance, PowerBI, Knime, or RapidMiner. However, when it comes to specifying complex data analysis scenarios, e.g., in larger companies, domain experts can easily become overwhelmed by the extensive functionality and configuration possibilities of these tools. In addition, the tools vary significantly regarding their powerfulness and functionality, which could lead to the need to use different tools for the same scenario. In this demo paper, we introduce our novel user-centric interactive data mashup tool that supports domain experts in interactively creating their analysis scenarios and introduces essential functionalities that are lacking in similar tools, such as direct feedback of data quality issues or recommendation of suitable data sources not yet considered.
+
+
+## Accepted Poster Paper
+
+**An Investigation of Factors Affecting Missing Data Imputation**
+
+_Andreas Hackl, Jürgen Zeindl and Lisa Ehrlinger_
+
+Abstract
+
+Missing data is a common problem in datasets and negatively affects the reliability of data analysis, e.g., machine learning. Common causes for missing values are faulty sensor in industrial machine data or leaving patients in health data. Over the years, a plethora of methods to impute, i.e., to predict and replace missing values, have been proposed. The quality of these imputed values is influenced by different factors, such as, the correlation of the variables, percentage of missingness, or the mechanism behind the missing value. 
+Although several studies compare the performance of imputation methods, there is no dedicated investigation about the conditions under which such methods are effective and can be applied safely.
+
+In this paper, we systematically investigate the impact of four factors on imputation methods. More specifically, we investigate the extent to which (1) missing data mechanism, (2) distribution of variables, (3) degree of correlation between the variables, and (4) percentage of missingness affect the imputation quality. The impact is investigated with eight different machine-learning-based imputation methods on both, a set of synthetic datasets specifically created for this evaluation, and a real-world sensor dataset provided by voestalpine Stahl GmbH.
+
+_Accepted Short Research Papers will also participate in the Poster Session._
