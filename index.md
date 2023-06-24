@@ -40,7 +40,7 @@ Kyle Chard, University of Chicago and Argonne National Lab<br>
 **Proceedings Chair**<br>
 Alejandro Bugacov, University of Southern California<br>
 
-**Local Arrangements Chairs**<br>
+**Local Event Coordinators**<br>
 Shawn Sanders and Jessica Madrigal, University of Southern California<br>
 
 **Web Chair**<br>
