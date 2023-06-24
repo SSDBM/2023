@@ -34,7 +34,7 @@ Carl Kesselman, University of Southern California<br>
 **Program Chair**<br>
 Robert Schuler, University of Southern California<br>
 
-**Poster Chair**<br>
+**Short Paper Chair**<br>
 Kyle Chard, University of Chicago and Argonne National Lab<br>
 
 **Proceedings Chair**<br>
