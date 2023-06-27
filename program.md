@@ -35,9 +35,9 @@ The research sessions will include presentations of full and short research pape
 | 12:00 - 13:30 | Lunch Break                                              |
 | 13:30 - 14:45 | Research Session 2: Trust & Privacy                      |
 | 14:45 - 15:15 | Break                                                    |
-| 15:15 - 16:15 | Research Session 3: Data Science, Systems & Applications |
-| 16:15 - 16:30 | Break                                                    |
-| 16:30 - 18:30 | Poster Session and Reception                             |
+| 15:15 - 16:30 | Research Session 3: Data Science, Systems & Applications |
+| 16:30 - 17:00 | Break                                                    |
+| 17:00 - 19:00 | Poster Session and Reception                             |
 
 **Day 2 (Tuesday July 11):**
 
@@ -61,9 +61,9 @@ The research sessions will include presentations of full and short research pape
 | 08:30 - 09:00 | Registration with coffee and light breakfast        |
 | 09:00 - 10:00 | Keynote 3                                           |
 | 10:00 - 10:30 | Break                                               |
-| 10:30 - 12:00 | Research Session 7: Machine Learning & Data Science |
-| 12:00 - 12:15 | Announcement of SSDBM 2024                          |
-| 12:15 - 13:45 | Closing and Lunch                                   |
+| 10:30 - 11:45 | Research Session 7: Machine Learning & Data Science |
+| 11:45 - 12:00 | Announcement of SSDBM 2024                          |
+| 12:00 - 13:30 | Closing and Lunch                                   |
 
 # Research Sessions
 
@@ -89,6 +89,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **Early ICU Mortality Prediction with Deep Federated Learning: A Real-World Scenario** Athanasios Georgoutsos, Paraskevas Kerasiotis and Verena Kantere (short)
 * **Selecting Efficient Cluster Resources for Data Analytics: When and How to Allocate for In-Memory Processing?** Jonathan Will, Lauritz Thamsen, Dominik Scheinert and Odej Kao (short)
 * **Privacy-Preserving Redaction of Diagnosis Data through Source Code Analysis** Lixi Zhou, Lei Yu, Jia Zou and Hong Min (short)
+* **InfoMoD: Information-theoretic Model Diagnostics** Armin Esmaeilzadeh, Lukasz Golab and Kazem Taghva (short)
 
 ## Day 2 (Tuesday July 11):
 
@@ -118,6 +119,5 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **LearnedSort as a learning-augmented SampleSort: Analysis and Parallelization** Ivan Carvalho and Ramon Lawrence
 * **Evaluating Autoencoders for Dimensionality Reduction of MRI-derived Radiomics and Classification of Malignant Brain Tumors** Mikayla Biggs, Yaohua Wang, Neetu Soni, Sarv Priya, Girish Bathla and Guadalupe Canahuate
 * **A Long term Time Series Forecasting method with Multiple Decomposition** Yang Wang, Shuyang Wang, Xu Chen and Yongjun Jing
-* **InfoMoD: Information-theoretic Model Diagnostics** Armin Esmaeilzadeh, Lukasz Golab and Kazem Taghva (short)
 
 The schedule of paper presentations may be subject to last minute changes, so please [contact us](mailto:ssdbm2023@easychair.org) if you have time-sensitive questions about the schedule.
