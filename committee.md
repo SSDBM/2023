@@ -3,16 +3,14 @@ title: Committee
 layout: default
 ---
 
-# Research and Demo Program Committee
+# Research Program Committee
 
 **Peter Baumann**, Jacobs University Bremen<br>
 **Khalid Belhajjame**, PSL, Université Paris-Dauphine, LAMSADE<br>
 **Ladjel Bellatreche**, LIAS/ENSMA<br>
 **Jean Luca Bez**, Lawrence Berkeley National Laboratory<br>
-**Souvik Bhattacherjee**, University of Maryland<br>
 **Suren Byna**, The Ohio State University<br>
 **Klemens Böhm**, Karlsruhe Institute of Technology<br>
-**Kyle Chard**, Computation Institute, University of Chicago and Argonne National Lab<br>
 **Amit Chavan**, University of Maryland<br>
 **Joseph Davis**, The University of Sydney<br>
 **Bin Dong**, Lawrence Berkeley National Lab, Berkeley, CA, USA<br>
@@ -42,8 +40,7 @@ layout: default
 **Tore Risch**, Uppsala University<br>
 **Florin Rusu**, University of California, Merced<br>
 **Iulian Sandu Popa**, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France<br>
-**Jagan Sankaranarayanan**, NEC Labs America<br>
-**Robert Schuler**, USC Information Sciences Institute<br>
+**Jagan Sankaranarayanan**, Google<br>
 **Maximilian Schüle**, University of Bamberg<br>
 **Galen Shipman**, Los Alamos National Laboratory<br>
 **Tarique Siddiqui**, Microsoft Research<br>
