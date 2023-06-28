@@ -71,7 +71,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 ## Day 1 (Monday July 10):
 
-### Research Session 1: Graph Data & Mining (I)
+<h3 id="research-session-1">Research Session 1: Graph Data & Mining (I)</h3>
 
 * **Heterogeneous Graph Neural Network via Knowledge Relations for Fake News Detection** Bingbing Xie, Xiaoxiao Ma, Jia Wu, Jian Yang, Shan Xue and Hao Fan
 * **Multi-representations Space Separation based Graph-level Anomaly-aware Detection** Fu Lin, Haonan Gong, Mingkang Li, Zitong Wang, Yue Zhang and Xuexiong Luo
