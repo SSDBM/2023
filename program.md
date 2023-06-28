@@ -29,7 +29,7 @@ The research sessions will include presentations of full and short research pape
 |---------------|------------------------------------------------------------------------------------------------------------|
 | 08:30 - 09:00 | Registration with coffee and light breakfast                                                               |
 | 09:00 - 09:15 | SSDBM Opening by Carl Kesselman                                                                            |
-| 09:15 - 10:15 | Keynote 1 by Helen M. Berman                                                                               |
+| 09:15 - 10:15 | [Keynote 1](./keynotes.md#keynote-1) by Helen M. Berman                                                    |
 | 10:15 - 10:45 | Break                                                                                                      |
 | 10:45 - 12:00 | **[Research Session 1](#research-session-1)**: Graph Data & Mining (I) <br> Session Chair: --              |
 | 12:00 - 13:30 | Lunch Break                                                                                                |
@@ -44,7 +44,7 @@ The research sessions will include presentations of full and short research pape
 | Time           | Events                                                                                         |
 |----------------|------------------------------------------------------------------------------------------------|
 | 08:30 - 09:00 | Registration with coffee and light breakfast                                                   |
-| 09:00 - 10:00 | Keynote 1 by Chris Mattmann                                                                    |
+| 09:00 - 10:00 | [Keynote 2](./keynotes.md#keynote-2) by Chris Mattmann                                         |
 | 10:00 - 10:30 | Break                                                                                          |
 | 10:30 - 11:45 | **[Research Session 4](#research-session-4)**: Data Mining <br> Session Chair: --              |
 | 11:45 - 13:15 | Lunch Break                                                                                    |
@@ -59,7 +59,7 @@ The research sessions will include presentations of full and short research pape
 | Time           | Events                                                                                                |
 |----------------|-------------------------------------------------------------------------------------------------------|
 | 08:30 - 09:00 | Registration with coffee and light breakfast                                                          |
-| 09:00 - 10:00 | Keynote 1 by Andy Maltz                                                                               |
+| 09:00 - 10:00 | [Keynote 3](./keynotes.md#keynote-3) by Andy Maltz                                                    |
 | 10:00 - 10:30 | Break                                                                                                 |
 | 10:30 - 11:45 | **[Research Session 7](#research-session-7)**: Machine Learning & Data Science <br> Session Chair: -- |
 | 11:45 - 12:00 | Announcement of SSDBM 2024                                                                            |
