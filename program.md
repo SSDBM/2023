@@ -47,12 +47,12 @@ The research sessions will include presentations of full and short research pape
 | 09:00 - 10:00 | [Keynote 2](./keynotes.md#keynote-2) by Chris Mattmann                                         |
 | 10:00 - 10:30 | Break                                                                                          |
 | 10:30 - 11:45 | **[Research Session 4](#research-session-4)**: Data Mining <br> Session Chair: --              |
-| 11:45 - 13:15 | Lunch Break                                                                                    |
-| 13:15 - 14:30 | **[Research Session 5](#research-session-5)**: Indexing & Query <br> Session Chair: Qiang Zhu  |
-| 14:30 - 15:00 | Break                                                                                          |
-| 15:00 - 16:10 | **[Research Session 6](#research-session-6)**: Graph Data & Mining (II) <br> Session Chair: -- |
-| 16:10 - 18:10 | Excursion                                                                                      |
-| 18:10 - 20:10 | Conference Banquet                                                                             |
+| 12:00 - 13:30 | Lunch Break                                                                                    |
+| 13:30 - 14:45 | **[Research Session 5](#research-session-5)**: Indexing & Query <br> Session Chair: Qiang Zhu  |
+| 14:45 - 15:15 | Break                                                                                          |
+| 15:15 - 16:25 | **[Research Session 6](#research-session-6)**: Graph Data & Mining (II) <br> Session Chair: -- |
+| 16:30 - 18:30 | Excursion                                                                                      |
+| 18:30 - 20:30 | Conference Banquet                                                                             |
 
 **Day 3 (Wednesday July 12):**
 
