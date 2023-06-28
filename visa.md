@@ -46,4 +46,4 @@ While we have a strong preference for in-person presentation, we understand if v
 In the spirit of inclusivity, we will accommodate pre-recorded video presentations with online questions & answers. 
 If your visa is denied, contact the [PC Chair](mailto:schuler@isi.edu) as soon as possible. 
 You will be asked to follow the [video submission instructions](./videos.md).
-Be aware that every paper must have at least one [registered](./register.md) author to be presented at the conference and appear in the proceedings, even if your are unable to attend in-person.
+Be aware that every paper must have at least one [registered](./register.md) author to be presented at the conference and appear in the proceedings, even if you are unable to attend in-person.
