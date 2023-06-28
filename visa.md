@@ -39,7 +39,7 @@ The USC Information Sciences Institute is conveniently located within a short dr
 * **Ride Sharing**: Ride sharing, especially [Uber](www.uber.com) and [Lyft](https://www.lyft.com), are very popular and convenient means of transportation in LA.
 * **Parking**: The conference venue (USC/ISI) has a paid parking structure adjacent to it. We will provide parking validation at the conference venue. Ask at registration.
 
-## What if my U.S. Visa application is rejected?
+## What if my U.S. Visa application is denied?
 
 If your U.S. Visa application is denied, please attempt to arrange a suitable substitute to present your work such as a co-author, advisor, or close collaborator.
 While we have a strong preference for in-person presentation, we understand if visas/travel is not possible at the time.
