@@ -25,45 +25,45 @@ The research sessions will include presentations of full and short research pape
 
 **Day 1 (Monday July 10):**
 
-| Time          | Events                                                   |
-|---------------|----------------------------------------------------------|
-| 08:30 - 09:00 | Registration with coffee and light breakfast             |
-| 09:00 - 09:15 | SSDBM Opening by Carl Kesselman                          |
-| 09:15 - 10:15 | Keynote 1 by Helen M. Berman                             |
-| 10:15 - 10:45 | Break                                                    |
-| 10:45 - 12:00 | Research Session 1: Graph Data & Mining (I)              |
-| 12:00 - 13:30 | Lunch Break                                              |
-| 13:30 - 14:45 | Research Session 2: Trust & Privacy                      |
-| 14:45 - 15:15 | Break                                                    |
-| 15:15 - 16:30 | Research Session 3: Data Science, Systems & Applications |
-| 16:30 - 17:00 | Break                                                    |
-| 17:00 - 19:00 | Poster Session and Reception                             |
+| Time          | Events                                                                                                     |
+|---------------|------------------------------------------------------------------------------------------------------------|
+| 08:30 - 09:00 | Registration with coffee and light breakfast                                                               |
+| 09:00 - 09:15 | SSDBM Opening by Carl Kesselman                                                                            |
+| 09:15 - 10:15 | Keynote 1 by Helen M. Berman                                                                               |
+| 10:15 - 10:45 | Break                                                                                                      |
+| 10:45 - 12:00 | **[Research Session 1](#research-session-1)**: Graph Data & Mining (I) <br> Session Chair: --              |
+| 12:00 - 13:30 | Lunch Break                                                                                                |
+| 13:30 - 14:45 | **[Research Session 2](#research-session-2)**: Trust & Privacy <br> Session Chair: Jia Zou                 |
+| 14:45 - 15:15 | Break                                                                                                      |
+| 15:15 - 16:30 | **[Research Session 3](#research-session-3)**: Data Science, Systems & Applications <br> Session Chair: -- |
+| 16:30 - 17:00 | Break                                                                                                      |
+| 17:00 - 19:00 | Poster Session and Reception                                                                               |
 
 **Day 2 (Tuesday July 11):**
 
-| Time           | Events                                       |
-|----------------|----------------------------------------------|
-| 08:30 - 09:00 | Registration with coffee and light breakfast |
-| 09:00 - 10:00 | Keynote 2 by Chris Mattmann                  |
-| 10:00 - 10:30 | Break                                        |
-| 10:30 - 11:45 | Research Session 4: Data Mining              |
-| 11:45 - 13:15 | Lunch Break                                  |
-| 13:15 - 14:30 | Research Session 5: Indexing & Query         |
-| 14:30 - 15:00 | Break                                        |
-| 15:00 - 16:10 | Research Session 6: Graph Data & Mining (II) |
-| 16:10 - 18:10 | Excursion                                    |
-| 18:10 - 20:10 | Conference Banquet                           |
+| Time           | Events                                                                                         |
+|----------------|------------------------------------------------------------------------------------------------|
+| 08:30 - 09:00 | Registration with coffee and light breakfast                                                   |
+| 09:00 - 10:00 | Keynote 1 by Chris Mattmann                                                                    |
+| 10:00 - 10:30 | Break                                                                                          |
+| 10:30 - 11:45 | **[Research Session 4](#research-session-4)**: Data Mining <br> Session Chair: --              |
+| 11:45 - 13:15 | Lunch Break                                                                                    |
+| 13:15 - 14:30 | **[Research Session 5](#research-session-5)**: Indexing & Query <br> Session Chair: Qiang Zhu  |
+| 14:30 - 15:00 | Break                                                                                          |
+| 15:00 - 16:10 | **[Research Session 6](#research-session-6)**: Graph Data & Mining (II) <br> Session Chair: -- |
+| 16:10 - 18:10 | Excursion                                                                                      |
+| 18:10 - 20:10 | Conference Banquet                                                                             |
 
 **Day 3 (Wednesday July 12):**
 
-| Time           | Events                                              |
-|----------------|-----------------------------------------------------|
-| 08:30 - 09:00 | Registration with coffee and light breakfast        |
-| 09:00 - 10:00 | Keynote 3 by Andy Maltz                             |
-| 10:00 - 10:30 | Break                                               |
-| 10:30 - 11:45 | Research Session 7: Machine Learning & Data Science |
-| 11:45 - 12:00 | Announcement of SSDBM 2024                          |
-| 12:00 - 13:30 | Closing and Lunch                                   |
+| Time           | Events                                                                                                |
+|----------------|-------------------------------------------------------------------------------------------------------|
+| 08:30 - 09:00 | Registration with coffee and light breakfast                                                          |
+| 09:00 - 10:00 | Keynote 1 by Andy Maltz                                                                               |
+| 10:00 - 10:30 | Break                                                                                                 |
+| 10:30 - 11:45 | **[Research Session 7](#research-session-7)**: Machine Learning & Data Science <br> Session Chair: -- |
+| 11:45 - 12:00 | Announcement of SSDBM 2024                                                                            |
+| 12:00 - 13:30 | Closing and Lunch                                                                                     |
 
 # Research Sessions
 
