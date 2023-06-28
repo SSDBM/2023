@@ -22,14 +22,14 @@ layout: default
 
 8. Once your video is available, please copy the link by viewing the video page on YouTube and sharing its link.
 
-9. The video duration should be maximum **15 minutes for long papers** and **12 minutes for short papers**.
+9. The video duration should be maximum **20 minutes for long papers** and **10 minutes for short papers**.
 
 10. Authors may use an optional virtual background.
 
 
-# Instructions for Emailing Your Youtube Video Link
+# Instructions for Emailing Your YouTube Video Link
 
-Please send the video link by email to **TBA** by TBA according to the following instructions:
+Please send the video link by email to the [PC chair](mailto:schuler@isi.edu) by July 5, 2023 (anytime) according to the following instructions:
 
 1. Email subject must be titled with your paper ID and presenter last name: **SSDBM 2023 Video Link: PAPERID#_PRESENTER-LASTNAME**
 
