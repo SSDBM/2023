@@ -73,9 +73,9 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 ### Research Session 1: Graph Data & Mining (I)
 
-* **A benchmark for Dynamic Graph version management** Zeng Chenglin, Wang Huajin, Shen Zhihong and Hu Chuan
 * **Heterogeneous Graph Neural Network via Knowledge Relations for Fake News Detection** Bingbing Xie, Xiaoxiao Ma, Jia Wu, Jian Yang, Shan Xue and Hao Fan
 * **Multi-representations Space Separation based Graph-level Anomaly-aware Detection** Fu Lin, Haonan Gong, Mingkang Li, Zitong Wang, Yue Zhang and Xuexiong Luo
+* **ST-CopulaGNN : A Multi-View Spatio-Temporal Graph Neural Network for Traffic Forecasting** Pitikorn Khlaisamniang and Suronapee Phoomvuthisarn
 
 ### Research Session 2: Trust & Privacy
 
@@ -107,7 +107,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 ### Research Session 6: Graph Data & Mining (II)
 
-* **ST-CopulaGNN : A Multi-View Spatio-Temporal Graph Neural Network for Traffic Forecasting** Pitikorn Khlaisamniang and Suronapee Phoomvuthisarn
+* **A benchmark for Dynamic Graph version management** Zeng Chenglin, Wang Huajin, Shen Zhihong and Hu Chuan
 * **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks** Yili Wang, Chen Jiamin, Qiutong Li, Changlong He and Jianliang Gao (short)
 * **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth** Jianliang Gao, Changlong He, Jiamin Chen, Qiutong Li and Yili Wang (short)
 * **TGSLN: Time-aware Graph Structure Learning Network for Multi-variates Stock Sector Ranking Recommendation** Quan Wan, Shuo Yin, Xiangyue Liu, Jianliang Gao and Yuhui Zhong (short)
