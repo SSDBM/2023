@@ -7,7 +7,7 @@ layout: default
 
 1. Sign in to [YouTube](https://www.youtube.com/).
 
-2. At the top right corner, select the **Create video or more** button -> **Upload Video**.
+2. In the top right corner, select the **Create video or more** button -> **Upload Video**.
     ![Youtube](./assets/images/youtube.png)
 
 3. Select the video file you would like to upload.
@@ -26,8 +26,23 @@ layout: default
 
 10. Authors may use an optional virtual background.
 
+# Instructions for Submitting Your YouTube Video Link
 
-# Instructions for Emailing Your YouTube Video Link
+Use the following form to submit your YouTube video link.
+
+https://forms.gle/fJKvu8c468zJ1Q1z7
+
+# Instructions for Online Q&A Following Video Presentation
+
+We will email you a link to join your Research Session by Zoom. 
+While the meeting is not hybrid, we will do our part to connect the in-person audience with online speakers that were unable to meet in person due to travel restrictions imposed on them. 
+Be aware of your research session, check the time, understand the time difference with your present time zone, and be prepared to join the Zoom session 15 minutes before the beginning of your session. 
+Make sure you have Zoom installed and updated in advance of the conference. 
+Situate yourself in a quiet location to improve the quality of your audio and your interaction with the audience. 
+Be mindful of your background to minimize distractions in your environment or use a virtual background. 
+Remain muted until your video recording is finished and the Q&A begins. 
+
+{% comment %}
 
 Please send the video link by email to the [PC chair](mailto:schuler@isi.edu) by July 5, 2023 (anytime) according to the following instructions:
 
@@ -52,3 +67,5 @@ Presenter Full Name: John Doe
 
 Presenter Bio: ...
 ```
+
+{% endcomment %}
