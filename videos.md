@@ -26,13 +26,11 @@ layout: default
 
 10. Authors may use an optional virtual background.
 
-# Instructions for Submitting Your YouTube Video Link
+# Submitting Your YouTube Video Link
 
-Use the following form to submit your YouTube video link.
+Submit your YouTube video link using the [SSDBM 2023 Video Recordings](https://forms.gle/fJKvu8c468zJ1Q1z7) form.
 
-https://forms.gle/fJKvu8c468zJ1Q1z7
-
-# Instructions for Online Q&A Following Video Presentation
+# Online Q&A Following Video Presentation
 
 We will email you a link to join your Research Session by Zoom. 
 While the meeting is not hybrid, we will do our part to connect the in-person audience with online speakers that were unable to meet in person due to travel restrictions imposed on them. 
