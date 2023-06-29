@@ -23,7 +23,7 @@ The program will consist of keynotes, research sessions, poster session, recepti
 Each day will begin with a light breakfast followed by a keynote presentation. 
 The research sessions will include presentations of full and short research papers. 
 
-**Day 1 (Monday July 10):**
+### Day 1 (Monday, July 10) Overview
 
 | Time          | Events                                                                                                     |
 |---------------|------------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ The research sessions will include presentations of full and short research pape
 | 16:30 - 17:00 | Break                                                                                                      |
 | 17:00 - 19:00 | Poster Session and Reception                                                                               |
 
-**Day 2 (Tuesday July 11):**
+### Day 2 (Tuesday, July 11) Overview
 
 | Time           | Events                                                                                         |
 |----------------|------------------------------------------------------------------------------------------------|
@@ -54,7 +54,7 @@ The research sessions will include presentations of full and short research pape
 | 16:30 - 18:30 | Excursion                                                                                      |
 | 18:30 - 20:30 | Conference Banquet                                                                             |
 
-**Day 3 (Wednesday July 12):**
+### Day 3 (Wednesday, July 12) Overview
 
 | Time           | Events                                                                                                |
 |----------------|-------------------------------------------------------------------------------------------------------|
@@ -69,24 +69,24 @@ The research sessions will include presentations of full and short research pape
 
 See [accepted papers](./accepted-papers.md) to read the abstracts for the complete list of full, short, demonstration, and poster papers to appear at SSDBM 2023.
 
-## Day 1 (Monday July 10):
+## Day 1 (Monday, July 10)
 
-### Research Session 1: Graph Data &amp; Mining (I)
 <h6 id="research-session-1"></h6>
+### Research Session 1: Graph Data &amp; Mining (I)
 
 * **Heterogeneous Graph Neural Network via Knowledge Relations for Fake News Detection** Bingbing Xie, Xiaoxiao Ma, Jia Wu, Jian Yang, Shan Xue and Hao Fan
 * **Multi-representations Space Separation based Graph-level Anomaly-aware Detection** Fu Lin, Haonan Gong, Mingkang Li, Zitong Wang, Yue Zhang and Xuexiong Luo
 * **ST-CopulaGNN : A Multi-View Spatio-Temporal Graph Neural Network for Traffic Forecasting** Pitikorn Khlaisamniang and Suronapee Phoomvuthisarn
 
-### Research Session 2: Trust & Privacy
 <h6 id="research-session-2"></h6>
+### Research Session 2: Trust & Privacy
 
 * **Federated Learning on Personal Data Management Systems: Decentralized and Reliable Secure Aggregation Protocols** Julien Mirval, Luc Bouganim and Iulian Sandu Popa
 * **Privacy-Preserving OLAP via Modeling and Analysis of Query Workloads: Innovative Theories and Theorems** Alfredo Cuzzocrea
 * **ESM$^2$-Tree: An maintenance efficient authentication data structure in blockchain** Yuzhou Fang, Weiwei Qiu, Fanglei Huang and Liang Cai (_remote_)
 
-### Research Session 3: Data Science, Systems & Applications
 <h6 id="research-session-3"></h6>
+### Research Session 3: Data Science, Systems & Applications
 
 * **Fast Algorithm for Embedded Order Dependency Validation** Daichi Amagata, Alejandro Ramos, Ryo Shirai and Takahiro Hara (short)
 * **Early ICU Mortality Prediction with Deep Federated Learning: A Real-World Scenario** Athanasios Georgoutsos, Paraskevas Kerasiotis and Verena Kantere (short)
@@ -94,34 +94,34 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 * **Privacy-Preserving Redaction of Diagnosis Data through Source Code Analysis** Lixi Zhou, Lei Yu, Jia Zou and Hong Min (short)
 * **InfoMoD: Information-theoretic Model Diagnostics** Armin Esmaeilzadeh, Lukasz Golab and Kazem Taghva (short)
 
-## Day 2 (Tuesday July 11):
+## Day 2 (Tuesday, July 11)
 
-### Research Session 4: Data Mining
 <h6 id="research-session-4"></h6>
+### Research Session 4: Data Mining
 
 * **A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels** Abdulrahman Salama, Mahmoud Elkamhawy, Mohamed Ali, Ehab Al-Masri, Adel Sabour, Abdeltawab Hendawi, Ming Tan, Vashutosh Agrawal and Ravi Prakash
 * **Towards Efficient Discovery of Spatially Interesting Patterns in Geo-referenced Sequential Databases** Uday Kiran Rage and Shota Suzuki
 * **Data Driven Dimensionality Reduction to Improve Modeling Performance** Joshua Chung, Marcos Lopez de Prado, Horst Simon and Kesheng Wu
 
-### Research Session 5: Indexing & Query
 <h6 id="research-session-5"></h6>
+### Research Session 5: Indexing & Query
 
 * **Less is More: How Fewer Results Improve Progressive Join Query Processing** Xin Zhang and Ahmed Eldawy
 * **Indexing Temporal Relations for Range-Duration Queries** Matteo Ceccarello, Anton Dignös, Johann Gamper and Christina Khnaisser
 * **Accelerating Machine Learning Queries with Linear Algebra Query Processing** Wenbo Sun, Asterios Katsifodimos and Rihan Hai (_remote_)
 
-### Research Session 6: Graph Data & Mining (II)
 <h6 id="research-session-6"></h6>
+### Research Session 6: Graph Data & Mining (II)
 
 * **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks** Yili Wang, Chen Jiamin, Qiutong Li, Changlong He and Jianliang Gao (short)
 * **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth** Jianliang Gao, Changlong He, Jiamin Chen, Qiutong Li and Yili Wang (short)
 * **TGSLN: Time-aware Graph Structure Learning Network for Multi-variates Stock Sector Ranking Recommendation** Quan Wan, Shuo Yin, Xiangyue Liu, Jianliang Gao and Yuhui Zhong (short)
 * **A benchmark for Dynamic Graph version management** Zeng Chenglin, Wang Huajin, Shen Zhihong and Hu Chuan (_remote_)
 
-## Day 3 (Wednesday July 12):
+## Day 3 (Wednesday, July 12)
 
-### Research Session 7: Machine Learning & Data Science 
 <h6 id="research-session-7"></h6>
+### Research Session 7: Machine Learning & Data Science 
 
 * **LearnedSort as a learning-augmented SampleSort: Analysis and Parallelization** Ivan Carvalho and Ramon Lawrence
 * **Evaluating Autoencoders for Dimensionality Reduction of MRI-derived Radiomics and Classification of Malignant Brain Tumors** Mikayla Biggs, Yaohua Wang, Neetu Soni, Sarv Priya, Girish Bathla and Guadalupe Canahuate
