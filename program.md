@@ -81,7 +81,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 ### Research Session 2: Trust & Privacy
 <h6 id="research-session-2"></h6>
 
-* **ESM$^2$-Tree: An maintenance efficient authentication data structure in blockchain** Yuzhou Fang, Weiwei Qiu, Fanglei Huang and Liang Cai
+* **ESM$^2$-Tree: An maintenance efficient authentication data structure in blockchain** Yuzhou Fang, Weiwei Qiu, Fanglei Huang and Liang Cai (_remote_)
 * **Federated Learning on Personal Data Management Systems: Decentralized and Reliable Secure Aggregation Protocols** Julien Mirval, Luc Bouganim and Iulian Sandu Popa
 * **Privacy-Preserving OLAP via Modeling and Analysis of Query Workloads: Innovative Theories and Theorems** Alfredo Cuzzocrea
 
@@ -106,14 +106,14 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 ### Research Session 5: Indexing & Query
 <h6 id="research-session-5"></h6>
 
-* **Accelerating Machine Learning Queries with Linear Algebra Query Processing** Wenbo Sun, Asterios Katsifodimos and Rihan Hai
+* **Accelerating Machine Learning Queries with Linear Algebra Query Processing** Wenbo Sun, Asterios Katsifodimos and Rihan Hai (_remote_)
 * **Less is More: How Fewer Results Improve Progressive Join Query Processing** Xin Zhang and Ahmed Eldawy
 * **Indexing Temporal Relations for Range-Duration Queries** Matteo Ceccarello, Anton Dignös, Johann Gamper and Christina Khnaisser
 
 ### Research Session 6: Graph Data & Mining (II)
 <h6 id="research-session-6"></h6>
 
-* **A benchmark for Dynamic Graph version management** Zeng Chenglin, Wang Huajin, Shen Zhihong and Hu Chuan
+* **A benchmark for Dynamic Graph version management** Zeng Chenglin, Wang Huajin, Shen Zhihong and Hu Chuan (_remote_)
 * **MSLS: Meta-graph Search with Learnable Supernet for Heterogeneous Graph Neural Networks** Yili Wang, Chen Jiamin, Qiutong Li, Changlong He and Jianliang Gao (short)
 * **Decoupled Graph Neural Architecture Search with Variable Propagation Operation and Appropriate Depth** Jianliang Gao, Changlong He, Jiamin Chen, Qiutong Li and Yili Wang (short)
 * **TGSLN: Time-aware Graph Structure Learning Network for Multi-variates Stock Sector Ranking Recommendation** Quan Wan, Shuo Yin, Xiangyue Liu, Jianliang Gao and Yuhui Zhong (short)
