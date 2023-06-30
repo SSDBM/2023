@@ -125,6 +125,6 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 
 * **LearnedSort as a learning-augmented SampleSort: Analysis and Parallelization** Ivan Carvalho and Ramon Lawrence
 * **Evaluating Autoencoders for Dimensionality Reduction of MRI-derived Radiomics and Classification of Malignant Brain Tumors** Mikayla Biggs, Yaohua Wang, Neetu Soni, Sarv Priya, Girish Bathla and Guadalupe Canahuate
-* **A Long term Time Series Forecasting method with Multiple Decomposition** Yang Wang, Shuyang Wang, Xu Chen and Yongjun Jing
+* **A Long term Time Series Forecasting method with Multiple Decomposition** Yang Wang, Shuyang Wang, Xu Chen and Yongjun Jing (_remote_)
 
 The schedule of paper presentations may be subject to last minute changes, so please [contact us](mailto:ssdbm2023@easychair.org) if you have time-sensitive questions about the schedule.

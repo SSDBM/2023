@@ -28,7 +28,7 @@ layout: default
 
 # Submitting Your YouTube Video Link
 
-Submit your YouTube video link using the [SSDBM 2023 Video Recordings](https://forms.gle/fJKvu8c468zJ1Q1z7) form.
+Submit your YouTube video link using the [SSDBM 2023 Video Recordings](https://forms.gle/fJKvu8c468zJ1Q1z7) form by **July 5, 2023** end of day (anytime). This will give the organizers enough time to review your video and inform you if there are issues with playback so that you can correct them in time for the conference.
 
 # Online Q&A Following Video Presentation
 
