@@ -26,8 +26,8 @@ He is best known for a 20-year career inventing the most downloaded software on 
 
 ## Keynote 3
 
+"Preserving and Accessing Valuable Digital Data: Insights from the Motion Picture Industry"
+
 **Andy Maltz** ([bio](https://www.linkedin.com/in/andymaltz))
 
 Media Technologist/Executive/Co-author, The Digital Dilemma: Strategic Issues in Archiving and Accessing Digital Motion Picture Materials.
-
-Additional details to follow.
