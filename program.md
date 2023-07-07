@@ -31,7 +31,7 @@ The research sessions will include presentations of full and short research pape
 | 09:30 - 09:45 | SSDBM Opening by Carl Kesselman                                                                                 |
 | 09:45 - 10:45 | [Keynote 1](./keynotes.md#keynote-1) by Helen M. Berman                                                         |
 | 10:45 - 11:00 | Break                                                                                                           |
-| 11:00 - 12:00 | **[Research Session 1](#research-session-1)**: Machine Learning & Applications <br> Session Chair: --           |
+| 11:00 - 12:00 | **[Research Session 1](#research-session-1)**: Machine Learning & Applications <br> Session Chair: Rob Schuler  |
 | 12:00 - 13:30 | Lunch Break                                                                                                     |
 | 13:30 - 15:00 | **[Research Session 2](#research-session-2)**: Trust & Privacy <br> Session Chair: Jia Zou                      |
 | 15:00 - 15:30 | Break                                                                                                           |
@@ -46,7 +46,7 @@ The research sessions will include presentations of full and short research pape
 | 09:00 - 09:30 | Registration with coffee and light breakfast                                                     |
 | 09:30 - 10:30 | [Keynote 2](./keynotes.md#keynote-2) by Chris Mattmann                                           |
 | 10:30 - 10:45 | Break                                                                                            |
-| 10:45 - 12:15 | **[Research Session 4](#research-session-4)**: Data Mining <br> Session Chair: --                |
+| 10:45 - 12:15 | **[Research Session 4](#research-session-4)**: Data Mining <br> Session Chair: Alejandro Bugacov |
 | 12:15 - 13:30 | Lunch Break                                                                                      |
 | 13:30 - 14:30 | [Keynote 3](./keynotes.md#keynote-3) by Andy Maltz                                               |
 | 14:30 - 14:45 | Break                                                                                            |
@@ -57,13 +57,13 @@ The research sessions will include presentations of full and short research pape
 
 ### Day 3 (Wednesday, July 12) Overview
 
-| Time           | Events                                                                                                 |
-|----------------|--------------------------------------------------------------------------------------------------------|
-| 09:00 - 09:30 | Registration with coffee and light breakfast                                                           |
-| 09:30 - 11:00 | **[Research Session 6](#research-session-6)**: Graphs & Data Mining (Hybrid I) <br> Session Chair: --  |
-| 11:00 - 11:15 | Break                                                                                                  |
-| 11:15 - 12:30 | **[Research Session 7](#research-session-7)**: Graphs & Data Mining (Hybrid II) <br> Session Chair: -- |
-| 12:30 - 14:00 | Closing and Lunch                                                                                      |
+| Time           | Events                                                                                                          |
+|----------------|-----------------------------------------------------------------------------------------------------------------|
+| 09:00 - 09:30 | Registration with coffee and light breakfast                                                                    |
+| 09:30 - 11:00 | **[Research Session 6](#research-session-6)**: Graphs & Data Mining (Hybrid I) <br> Session Chair: Seokki Lee   |
+| 11:00 - 11:15 | Break                                                                                                           |
+| 11:15 - 12:30 | **[Research Session 7](#research-session-7)**: Graphs & Data Mining (Hybrid II) <br> Session Chair: Rob Schuler |
+| 12:30 - 14:00 | Closing and Lunch                                                                                               |
 
 # Research Sessions
 
@@ -81,7 +81,7 @@ See [accepted papers](./accepted-papers.md) to read the abstracts for the comple
 ### Research Session 2: Trust & Privacy
 
 * **Federated Learning on Personal Data Management Systems: Decentralized and Reliable Secure Aggregation Protocols** Julien Mirval, Luc Bouganim and Iulian Sandu Popa
-* **Privacy-Preserving OLAP via Modeling and Analysis of Query Workloads: Innovative Theories and Theorems** Alfredo Cuzzocrea
+* **Privacy-Preserving OLAP via Modeling and Analysis of Query Workloads: Innovative Theories and Theorems** Alfredo Cuzzocrea [remote]
 * **ESM$^2$-Tree: An maintenance efficient authentication data structure in blockchain** Yuzhou Fang, Weiwei Qiu, Fanglei Huang and Liang Cai [remote]
 
 <h6 id="research-session-3"></h6>
