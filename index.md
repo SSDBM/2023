@@ -16,8 +16,8 @@ The conference will be held _in-person_ in Marina del Rey, California USA (coast
 - <s>Registration is now open!</s>
 - <s>Notifications to authors will be sent on June 2, 2023.</s>
 - <s>Submission deadline has been extended to April 30, 2023.</s>
-- <s>Call for Papers is announced! [Please see this page](calls.html) for full details.</s>
-- <s>Please submit your paper [here](https://easychair.org/conferences/?conf=ssdbm2023).</s>
+- <s>Call for Papers is announced! Please see this page (calls) for full details.</s>
+- <s>Please submit your paper here (https://easychair.org/conferences/?conf=ssdbm2023).</s>
 
 ## News and Highlights
 
